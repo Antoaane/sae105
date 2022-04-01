@@ -1,0 +1,1602 @@
+[
+    {
+      "place": 1,
+      "titre": "Titanic",
+      "realisateur": "J. Cameron",
+      "annee": 1998,
+      "pays": "US",
+      "million_entrees": "21,80"
+    },
+    {
+      "place": 2,
+      "titre": "Bienvenue chez les Ch'tis",
+      "realisateur": "D. Boon",
+      "annee": 2008,
+      "pays": "FR",
+      "million_entrees": "20,44"
+    },
+    {
+      "place": 3,
+      "titre": "Intouchables",
+      "realisateur": "E. Tolédano, O. Nakache",
+      "annee": 2011,
+      "pays": "FR",
+      "million_entrees": "19,51"
+    },
+    {
+      "place": 4,
+      "titre": "La Grande Vadrouille",
+      "realisateur": "G. Oury",
+      "annee": 1966,
+      "pays": "FR/GB",
+      "million_entrees": "17,33"
+    },
+    {
+      "place": 5,
+      "titre": "Autant en emporte le vent",
+      "realisateur": "V. Fleming",
+      "annee": 1950,
+      "pays": "US",
+      "million_entrees": "16,73"
+    },
+    {
+      "place": 6,
+      "titre": "Il était une fois dans l'Ouest",
+      "realisateur": "S. Leone",
+      "annee": 1969,
+      "pays": "IT",
+      "million_entrees": "14,89"
+    },
+    {
+      "place": 7,
+      "titre": "Le Livre de la jungle",
+      "realisateur": "W. Reitherman",
+      "annee": 1968,
+      "pays": "US",
+      "million_entrees": "14,80"
+    },
+    {
+      "place": 8,
+      "titre": "Avatar",
+      "realisateur": "J. Cameron",
+      "annee": 2009,
+      "pays": "US",
+      "million_entrees": "14,78"
+    },
+    {
+      "place": 9,
+      "titre": "Les 101 Dalmatiens",
+      "realisateur": "W. Disney",
+      "annee": 1961,
+      "pays": "US",
+      "million_entrees": "14,70"
+    },
+    {
+      "place": 10,
+      "titre": "Astérix et Obélix : mission Cléopâtre",
+      "realisateur": "A. Chabat",
+      "annee": 2002,
+      "pays": "FR",
+      "million_entrees": "14,41"
+    },
+    {
+      "place": 11,
+      "titre": "Les Dix Commandements",
+      "realisateur": "C.B. DeMille",
+      "annee": 1958,
+      "pays": "US",
+      "million_entrees": "14,24"
+    },
+    {
+      "place": 12,
+      "titre": "Ben Hur",
+      "realisateur": "W. Wyler",
+      "annee": 1960,
+      "pays": "US",
+      "million_entrees": "13,86"
+    },
+    {
+      "place": 13,
+      "titre": "Les Visiteurs",
+      "realisateur": "J.M. Poiré",
+      "annee": 1993,
+      "pays": "FR",
+      "million_entrees": "13,67"
+    },
+    {
+      "place": 14,
+      "titre": "Le Pont de la rivière Kwai",
+      "realisateur": "D. Lean",
+      "annee": 1957,
+      "pays": "GB",
+      "million_entrees": "13,48"
+    },
+    {
+      "place": 15,
+      "titre": "Cendrillon",
+      "realisateur": "W. Disney",
+      "annee": 1950,
+      "pays": "US",
+      "million_entrees": "13,27"
+    },
+    {
+      "place": 16,
+      "titre": "Le Petit Monde de Don Camillo",
+      "realisateur": "J. Duvivier",
+      "annee": 1952,
+      "pays": "IT/FR",
+      "million_entrees": "12,79"
+    },
+    {
+      "place": 17,
+      "titre": "Les Aristochats",
+      "realisateur": "W. Reitherman",
+      "annee": 1971,
+      "pays": "US",
+      "million_entrees": "12,74"
+    },
+    {
+      "place": 18,
+      "titre": "Qu'est-ce qu'on a fait au bon dieu ?",
+      "realisateur": "P. De Chauveron",
+      "annee": 2014,
+      "pays": "FR",
+      "million_entrees": "12,36"
+    },
+    {
+      "place": 19,
+      "titre": "Le Jour le plus long",
+      "realisateur": "Collectif",
+      "annee": 1962,
+      "pays": "US",
+      "million_entrees": "11,93"
+    },
+    {
+      "place": 20,
+      "titre": "Le Corniaud",
+      "realisateur": "G. Oury",
+      "annee": 1965,
+      "pays": "FR/IT",
+      "million_entrees": "11,74"
+    },
+    {
+      "place": 21,
+      "titre": "La Belle et le clochard",
+      "realisateur": "W. Disney",
+      "annee": 1955,
+      "pays": "US",
+      "million_entrees": "11,25"
+    },
+    {
+      "place": 22,
+      "titre": "Le Roi lion",
+      "realisateur": "R. Aller, R. Minkoff",
+      "annee": 1994,
+      "pays": "US",
+      "million_entrees": "10,75"
+    },
+    {
+      "place": 23,
+      "titre": "Bambi",
+      "realisateur": "W. Disney",
+      "annee": 1948,
+      "pays": "US",
+      "million_entrees": "10,72"
+    },
+    {
+      "place": 24,
+      "titre": "Star Wars : Episode 7, le reveil de la force",
+      "realisateur": "J. J. Abrams",
+      "annee": 2015,
+      "pays": "US",
+      "million_entrees": "10,35"
+    },
+    {
+      "place": 25,
+      "titre": "Taxi 2",
+      "realisateur": "G. Krawczyk",
+      "annee": 2000,
+      "pays": "FR",
+      "million_entrees": "10,30"
+    },
+    {
+      "place": 26,
+      "titre": "Trois hommes et un couffin",
+      "realisateur": "C. Serreau",
+      "annee": 1985,
+      "pays": "FR",
+      "million_entrees": "10,25"
+    },
+    {
+      "place": 27,
+      "titre": "Les Bronzés 3 - amis pour la vie",
+      "realisateur": "P. Leconte",
+      "annee": 2006,
+      "pays": "FR",
+      "million_entrees": "10,23"
+    },
+    {
+      "place": 28,
+      "titre": "Les Canons de Navarone",
+      "realisateur": "J. Lee Thompson",
+      "annee": 1961,
+      "pays": "US",
+      "million_entrees": "10,18"
+    },
+    {
+      "place": 29,
+      "titre": "La Guerre des boutons",
+      "realisateur": "Y. Robert",
+      "annee": 1962,
+      "pays": "FR",
+      "million_entrees": "10,05"
+    },
+    {
+      "place": 30,
+      "titre": "Les Misérables",
+      "realisateur": "J.P. Le Chanois, J.P. Dreyfus",
+      "annee": 1958,
+      "pays": "FR/IT",
+      "million_entrees": "9,97"
+    },
+    {
+      "place": 31,
+      "titre": "Le Roi Lion",
+      "realisateur": "J. Favreau",
+      "annee": 2019,
+      "pays": "US",
+      "million_entrees": "9,85"
+    },
+    {
+      "place": 32,
+      "titre": "Docteur Jivago",
+      "realisateur": "D. Lean",
+      "annee": 1966,
+      "pays": "US",
+      "million_entrees": "9,82"
+    },
+    {
+      "place": 33,
+      "titre": "E.T. l'extra-terrestre",
+      "realisateur": "S. Spielberg",
+      "annee": 1982,
+      "pays": "US",
+      "million_entrees": "9,82"
+    },
+    {
+      "place": 34,
+      "titre": "Vingt mille lieues sous les mers",
+      "realisateur": "R. Fleischer",
+      "annee": 1955,
+      "pays": "US",
+      "million_entrees": "9,63"
+    },
+    {
+      "place": 35,
+      "titre": "Harry Potter à l'école des sorciers",
+      "realisateur": "C. Colombus",
+      "annee": 2001,
+      "pays": "US",
+      "million_entrees": "9,54"
+    },
+    {
+      "place": 36,
+      "titre": "Sous le plus grand chapiteau du monde",
+      "realisateur": "C.B. DeMille",
+      "annee": 1953,
+      "pays": "US",
+      "million_entrees": "9,49"
+    },
+    {
+      "place": 37,
+      "titre": "Le Monde de Nemo",
+      "realisateur": "A. Stanton, L. Unkrich",
+      "annee": 2003,
+      "pays": "US",
+      "million_entrees": "9,44"
+    },
+    {
+      "place": 38,
+      "titre": "Le Dîner de cons",
+      "realisateur": "F. Veber",
+      "annee": 1998,
+      "pays": "FR",
+      "million_entrees": "9,25"
+    },
+    {
+      "place": 39,
+      "titre": "Le Grand Bleu",
+      "realisateur": "L. Besson",
+      "annee": 1988,
+      "pays": "FR",
+      "million_entrees": "9,20"
+    },
+    {
+      "place": 40,
+      "titre": "L'Ours",
+      "realisateur": "J.J. Annaud",
+      "annee": 1988,
+      "pays": "FR",
+      "million_entrees": "9,14"
+    },
+    {
+      "place": 41,
+      "titre": "Emmanuelle",
+      "realisateur": "J. Jaeckin",
+      "annee": 1974,
+      "pays": "FR",
+      "million_entrees": "8,89"
+    },
+    {
+      "place": 42,
+      "titre": "Harry Potter et la chambre des secrets",
+      "realisateur": "C. Colombus",
+      "annee": 2002,
+      "pays": "US",
+      "million_entrees": "8,86"
+    },
+    {
+      "place": 43,
+      "titre": "La Vache et le prisonnier",
+      "realisateur": "H. Verneuil",
+      "annee": 1959,
+      "pays": "FR/IT",
+      "million_entrees": "8,85"
+    },
+    {
+      "place": 44,
+      "titre": "West Side Story",
+      "realisateur": "R. Wise, J. Robbins",
+      "annee": 1962,
+      "pays": "US",
+      "million_entrees": "8,78"
+    },
+    {
+      "place": 45,
+      "titre": "Astérix et Obélix contre César",
+      "realisateur": "C. Zidi",
+      "annee": 1999,
+      "pays": "FR/DE/IT",
+      "million_entrees": "8,78"
+    },
+    {
+      "place": 46,
+      "titre": "La Grande Evasion",
+      "realisateur": "R. Walsh",
+      "annee": 1963,
+      "pays": "US",
+      "million_entrees": "8,76"
+    },
+    {
+      "place": 47,
+      "titre": "Le Bataillon du ciel",
+      "realisateur": "A. Esway",
+      "annee": 1947,
+      "pays": "FR",
+      "million_entrees": "8,65"
+    },
+    {
+      "place": 48,
+      "titre": "Le Fabuleux Destin d'Amélie Poulain",
+      "realisateur": "J.P. Jeunet",
+      "annee": 2001,
+      "pays": "FR/DE",
+      "million_entrees": "8,53"
+    },
+    {
+      "place": 49,
+      "titre": "Les Choristes",
+      "realisateur": "C. Barratier",
+      "annee": 2004,
+      "pays": "FR/CH",
+      "million_entrees": "8,47"
+    },
+    {
+      "place": 50,
+      "titre": "Le Dictateur",
+      "realisateur": "C. Chaplin",
+      "annee": 1945,
+      "pays": "US",
+      "million_entrees": "8,40"
+    },
+    {
+      "place": 51,
+      "titre": "Pour qui sonne le glas ?",
+      "realisateur": "S. Wood",
+      "annee": 1947,
+      "pays": "US",
+      "million_entrees": "8,27"
+    },
+    {
+      "place": 52,
+      "titre": "Rien à déclarer",
+      "realisateur": "D. Boon",
+      "annee": 2011,
+      "pays": "FR/BE",
+      "million_entrees": "8,14"
+    },
+    {
+      "place": 53,
+      "titre": "Violettes impériales",
+      "realisateur": "R. Pottier",
+      "annee": 1952,
+      "pays": "FR/ES",
+      "million_entrees": "8,13"
+    },
+    {
+      "place": 54,
+      "titre": "Les Couloirs du temps - les visiteurs 2",
+      "realisateur": "J.M. Poiré",
+      "annee": 1998,
+      "pays": "FR",
+      "million_entrees": "8,04"
+    },
+    {
+      "place": 55,
+      "titre": "Le Boulanger de Valorgue",
+      "realisateur": "H. Verneuil",
+      "annee": 1953,
+      "pays": "FR",
+      "million_entrees": "7,89"
+    },
+    {
+      "place": 56,
+      "titre": "Un Indien dans la ville",
+      "realisateur": "H. Palud",
+      "annee": 1994,
+      "pays": "FR",
+      "million_entrees": "7,89"
+    },
+    {
+      "place": 57,
+      "titre": "Pinocchio",
+      "realisateur": "W. Disney",
+      "annee": 1946,
+      "pays": "US",
+      "million_entrees": "7,85"
+    },
+    {
+      "place": 58,
+      "titre": "L'Âge de glace 3 - le temps des dinosaures",
+      "realisateur": "C. Saldanha",
+      "annee": 2009,
+      "pays": "US",
+      "million_entrees": "7,84"
+    },
+    {
+      "place": 59,
+      "titre": "Star Wars : épisode 1 - la menace fantôme",
+      "realisateur": "G. Lucas",
+      "annee": 1999,
+      "pays": "US",
+      "million_entrees": "7,84"
+    },
+    {
+      "place": 60,
+      "titre": "Tarzan",
+      "realisateur": "C. Buck, K. Lima",
+      "annee": 1999,
+      "pays": "US",
+      "million_entrees": "7,82"
+    },
+    {
+      "place": 61,
+      "titre": "Le Gendarme de Saint-Tropez",
+      "realisateur": "J. Girault",
+      "annee": 1964,
+      "pays": "FR/IT",
+      "million_entrees": "7,81"
+    },
+    {
+      "place": 62,
+      "titre": "Le Comte de Monte Cristo",
+      "realisateur": "R. Vernay",
+      "annee": 1955,
+      "pays": "FR/IT",
+      "million_entrees": "7,78"
+    },
+    {
+      "place": 63,
+      "titre": "Sixième Sens",
+      "realisateur": "M. Night Shyamalan",
+      "annee": 2000,
+      "pays": "US",
+      "million_entrees": "7,74"
+    },
+    {
+      "place": 64,
+      "titre": "Ratatouille",
+      "realisateur": "B. Bird, J. Pinkava",
+      "annee": 2007,
+      "pays": "US",
+      "million_entrees": "7,73"
+    },
+    {
+      "place": 65,
+      "titre": "Le Cinquième Elément",
+      "realisateur": "L. Besson",
+      "annee": 1997,
+      "pays": "FR",
+      "million_entrees": "7,71"
+    },
+    {
+      "place": 66,
+      "titre": "Harry Potter et la coupe de feu",
+      "realisateur": "M. Newell",
+      "annee": 2005,
+      "pays": "GB",
+      "million_entrees": "7,71"
+    },
+    {
+      "place": 67,
+      "titre": "la famille Bélier",
+      "realisateur": "É. Lartigau",
+      "annee": 2014,
+      "pays": "FR",
+      "million_entrees": "7,70"
+    },
+    {
+      "place": 68,
+      "titre": "Orange mécanique",
+      "realisateur": "S. Kubrick",
+      "annee": 1972,
+      "pays": "GB",
+      "million_entrees": "7,63"
+    },
+    {
+      "place": 69,
+      "titre": "La Reine des neiges 2",
+      "realisateur": "C. Buck, J. Lee",
+      "annee": 2019,
+      "pays": "US",
+      "million_entrees": "7,53"
+    },
+    {
+      "place": 70,
+      "titre": "Les Bidasses en folie",
+      "realisateur": "C. Zidi",
+      "annee": 1971,
+      "pays": "FR",
+      "million_entrees": "7,46"
+    },
+    {
+      "place": 71,
+      "titre": "Le Retour de Don Camillo",
+      "realisateur": "J. Duvivier",
+      "annee": 1953,
+      "pays": "IT/FR",
+      "million_entrees": "7,43"
+    },
+    {
+      "place": 72,
+      "titre": "Le Seigneur des anneaux - le retour du roi",
+      "realisateur": "P. Jackson",
+      "annee": 2003,
+      "pays": "NZ",
+      "million_entrees": "7,42"
+    },
+    {
+      "place": 73,
+      "titre": "La Vérité si je mens 2",
+      "realisateur": "T. Gilou",
+      "annee": 2001,
+      "pays": "FR",
+      "million_entrees": "7,41"
+    },
+    {
+      "place": 74,
+      "titre": "Jour de fête",
+      "realisateur": "J. Tati",
+      "annee": 1949,
+      "pays": "FR",
+      "million_entrees": "7,39"
+    },
+    {
+      "place": 75,
+      "titre": "Aladdin",
+      "realisateur": "J. Musker",
+      "annee": 1993,
+      "pays": "US",
+      "million_entrees": "7,35"
+    },
+    {
+      "place": 76,
+      "titre": "Les Aventures de Peter Pan",
+      "realisateur": "W. Disney",
+      "annee": 1953,
+      "pays": "US",
+      "million_entrees": "7,35"
+    },
+    {
+      "place": 77,
+      "titre": "Les Aventures de Rabbi Jacob",
+      "realisateur": "G. Oury",
+      "annee": 1973,
+      "pays": "FR/IT",
+      "million_entrees": "7,31"
+    },
+    {
+      "place": 78,
+      "titre": "Danse avec les loups",
+      "realisateur": "K. Costner",
+      "annee": 1991,
+      "pays": "US",
+      "million_entrees": "7,28"
+    },
+    {
+      "place": 79,
+      "titre": "Les Aventures de Bernard et Bianca",
+      "realisateur": "Collectif",
+      "annee": 1977,
+      "pays": "US",
+      "million_entrees": "7,24"
+    },
+    {
+      "place": 80,
+      "titre": "Jean de Florette",
+      "realisateur": "C. Berri",
+      "annee": 1986,
+      "pays": "FR",
+      "million_entrees": "7,23"
+    },
+    {
+      "place": 81,
+      "titre": "Star Wars : épisode 3 - la revanche des Sith",
+      "realisateur": "G. Lucas",
+      "annee": 2005,
+      "pays": "US",
+      "million_entrees": "7,21"
+    },
+    {
+      "place": 82,
+      "titre": "Harry Potter et le prisonnier d'Azkaban",
+      "realisateur": "A. Cuaron",
+      "annee": 2004,
+      "pays": "GB",
+      "million_entrees": "7,15"
+    },
+    {
+      "place": 83,
+      "titre": "Shrek 2",
+      "realisateur": "A. Adamson, V. Jenson",
+      "annee": 2004,
+      "pays": "US",
+      "million_entrees": "7,14"
+    },
+    {
+      "place": 84,
+      "titre": "Le Seigneur des anneaux - les deux tours",
+      "realisateur": "P. Jackson",
+      "annee": 2002,
+      "pays": "NZ",
+      "million_entrees": "7,13"
+    },
+    {
+      "place": 85,
+      "titre": "Samson et Dalila",
+      "realisateur": "C.B. DeMille",
+      "annee": 1951,
+      "pays": "US",
+      "million_entrees": "7,12"
+    },
+    {
+      "place": 86,
+      "titre": "Star Wars les derniers Jedi",
+      "realisateur": "R. Johnson",
+      "annee": 2017,
+      "pays": "US",
+      "million_entrees": "7,09"
+    },
+    {
+      "place": 87,
+      "titre": "Jeanne d'Arc",
+      "realisateur": "V. Fleming",
+      "annee": 1949,
+      "pays": "US",
+      "million_entrees": "7,09"
+    },
+    {
+      "place": 88,
+      "titre": "La Chèvre",
+      "realisateur": "F. Veber",
+      "annee": 1981,
+      "pays": "FR/MX",
+      "million_entrees": "7,08"
+    },
+    {
+      "place": 89,
+      "titre": "Monsieur Vincent",
+      "realisateur": "M. Cloche",
+      "annee": 1947,
+      "pays": "FR",
+      "million_entrees": "7,06"
+    },
+    {
+      "place": 90,
+      "titre": "Les Sept Mercenaires",
+      "realisateur": "J. Sturges",
+      "annee": 1961,
+      "pays": "US",
+      "million_entrees": "7,04"
+    },
+    {
+      "place": 91,
+      "titre": "Le Seigneur des anneaux - la communauté de l'anneau",
+      "realisateur": "P. Jackson",
+      "annee": 2001,
+      "pays": "NZ",
+      "million_entrees": "7,01"
+    },
+    {
+      "place": 92,
+      "titre": "Skyfall",
+      "realisateur": "S. Mendes",
+      "annee": 2012,
+      "pays": "GB",
+      "million_entrees": "7,01"
+    },
+    {
+      "place": 93,
+      "titre": "Si Versailles m'était conté",
+      "realisateur": "S. Guitry",
+      "annee": 1954,
+      "pays": "FR",
+      "million_entrees": "6,99"
+    },
+    {
+      "place": 94,
+      "titre": "Les Grandes Vacances",
+      "realisateur": "J. Girault",
+      "annee": 1967,
+      "pays": "FR/IT",
+      "million_entrees": "6,99"
+    },
+    {
+      "place": 95,
+      "titre": "Le Salaire de la peur",
+      "realisateur": "H.G. Clouzot",
+      "annee": 1953,
+      "pays": "FR/IT",
+      "million_entrees": "6,95"
+    },
+    {
+      "place": 96,
+      "titre": "Michel Strogoff",
+      "realisateur": "C. Gallone",
+      "annee": 1956,
+      "pays": "FR/IT",
+      "million_entrees": "6,87"
+    },
+    {
+      "place": 97,
+      "titre": "Le Gendarme se marie",
+      "realisateur": "J. Girault",
+      "annee": 1968,
+      "pays": "FR/IT",
+      "million_entrees": "6,83"
+    },
+    {
+      "place": 98,
+      "titre": "Avengers : Endgame",
+      "realisateur": "A. Russo, J. Russo",
+      "annee": 2019,
+      "pays": "US",
+      "million_entrees": "6,83"
+    },
+    {
+      "place": 99,
+      "titre": "Le Bossu de Notre-Dame",
+      "realisateur": "K. Wise, G. Trousdale",
+      "annee": 1996,
+      "pays": "US",
+      "million_entrees": "6,81"
+    },
+    {
+      "place": 100,
+      "titre": "Astérix aux Jeux Olympiques",
+      "realisateur": "F. Forestier, T. Langmann",
+      "annee": 2008,
+      "pays": "FR/DE/ES/IT",
+      "million_entrees": "6,81"
+    },
+    {
+      "place": 101,
+      "titre": "Mission spéciale",
+      "realisateur": "M. de Canonge",
+      "annee": 1946,
+      "pays": "FR",
+      "million_entrees": "6,78"
+    },
+    {
+      "place": 102,
+      "titre": "Jurassic Park",
+      "realisateur": "S. Spielberg",
+      "annee": 1993,
+      "pays": "US",
+      "million_entrees": "6,75"
+    },
+    {
+      "place": 103,
+      "titre": "Fanfan la Tulipe",
+      "realisateur": "Christian-Jaque",
+      "annee": 1952,
+      "pays": "FR/IT",
+      "million_entrees": "6,74"
+    },
+    {
+      "place": 104,
+      "titre": "L'Exorciste",
+      "realisateur": "W. Friedkin",
+      "annee": 1974,
+      "pays": "US",
+      "million_entrees": "6,73"
+    },
+    {
+      "place": 105,
+      "titre": "Qu'est-ce qu'on a encore fait au bon dieu ?",
+      "realisateur": "P. de Chauveron",
+      "annee": 2019,
+      "pays": "FR / BE",
+      "million_entrees": "6,72"
+    },
+    {
+      "place": 106,
+      "titre": "Rox et Rouky",
+      "realisateur": "A. Stevens",
+      "annee": 1981,
+      "pays": "US",
+      "million_entrees": "6,72"
+    },
+    {
+      "place": 107,
+      "titre": "Goldfinger",
+      "realisateur": "G. Hamilton",
+      "annee": 1965,
+      "pays": "GB",
+      "million_entrees": "6,68"
+    },
+    {
+      "place": 108,
+      "titre": "Les Trois Frères",
+      "realisateur": "D. Bourdon, B. Campan",
+      "annee": 1995,
+      "pays": "FR",
+      "million_entrees": "6,67"
+    },
+    {
+      "place": 109,
+      "titre": "les Minions",
+      "realisateur": "P. Coffin, K. Balda",
+      "annee": 2015,
+      "pays": "US",
+      "million_entrees": "6,66"
+    },
+    {
+      "place": 110,
+      "titre": "Nous irons à Paris",
+      "realisateur": "J. Boyer",
+      "annee": 1950,
+      "pays": "FR",
+      "million_entrees": "6,66"
+    },
+    {
+      "place": 111,
+      "titre": "Manon des sources",
+      "realisateur": "C. Berri",
+      "annee": 1986,
+      "pays": "FR",
+      "million_entrees": "6,65"
+    },
+    {
+      "place": 112,
+      "titre": "l'Age de glace 4 : la dérive des continents",
+      "realisateur": "M.Thurmeier, S. Martino",
+      "annee": 2012,
+      "pays": "US",
+      "million_entrees": "6,64"
+    },
+    {
+      "place": 113,
+      "titre": "Sissi",
+      "realisateur": "E. Marischka",
+      "annee": 1956,
+      "pays": "AT",
+      "million_entrees": "6,64"
+    },
+    {
+      "place": 114,
+      "titre": "L'Age de glace 2",
+      "realisateur": "C. Saldanha",
+      "annee": 2006,
+      "pays": "US",
+      "million_entrees": "6,63"
+    },
+    {
+      "place": 115,
+      "titre": "Le Cercle des poètes disparus",
+      "realisateur": "P. Weir",
+      "annee": 1989,
+      "pays": "US",
+      "million_entrees": "6,60"
+    },
+    {
+      "place": 116,
+      "titre": "La Belle au bois dormant",
+      "realisateur": "W. Disney",
+      "annee": 1959,
+      "pays": "US",
+      "million_entrees": "6,59"
+    },
+    {
+      "place": 117,
+      "titre": "Harry Potter et les reliques de la mort - 2e partie",
+      "realisateur": "D. Yates",
+      "annee": 2011,
+      "pays": "GB",
+      "million_entrees": "6,57"
+    },
+    {
+      "place": 118,
+      "titre": "Pirates des Caraïbes - le secret du coffre maudit",
+      "realisateur": "G. Verbinski",
+      "annee": 2006,
+      "pays": "US",
+      "million_entrees": "6,52"
+    },
+    {
+      "place": 119,
+      "titre": "Taxi",
+      "realisateur": "G. Pires",
+      "annee": 1998,
+      "pays": "FR",
+      "million_entrees": "6,49"
+    },
+    {
+      "place": 120,
+      "titre": "Robin des bois",
+      "realisateur": "W. Reitherman",
+      "annee": 1974,
+      "pays": "US",
+      "million_entrees": "6,48"
+    },
+    {
+      "place": 121,
+      "titre": "Rain Man",
+      "realisateur": "B. Levinson",
+      "annee": 1989,
+      "pays": "US",
+      "million_entrees": "6,48"
+    },
+    {
+      "place": 122,
+      "titre": "La Guerre des étoiles",
+      "realisateur": "G. Lucas",
+      "annee": 1977,
+      "pays": "US",
+      "million_entrees": "6,46"
+    },
+    {
+      "place": 123,
+      "titre": "Sissi impératrice",
+      "realisateur": "E. Marischka",
+      "annee": 1957,
+      "pays": "AT",
+      "million_entrees": "6,43"
+    },
+    {
+      "place": 124,
+      "titre": "Les Aventuriers de l'arche perdue",
+      "realisateur": "S. Spielberg",
+      "annee": 1981,
+      "pays": "US",
+      "million_entrees": "6,40"
+    },
+    {
+      "place": 125,
+      "titre": "Tant qu'il y aura des hommes",
+      "realisateur": "F. Zinnemann",
+      "annee": 1954,
+      "pays": "US",
+      "million_entrees": "6,40"
+    },
+    {
+      "place": 126,
+      "titre": "Arthur et les Minimoys",
+      "realisateur": "L. Besson",
+      "annee": 2006,
+      "pays": "FR",
+      "million_entrees": "6,40"
+    },
+    {
+      "place": 127,
+      "titre": "La Cuisine au beurre",
+      "realisateur": "G. Grangier",
+      "annee": 1963,
+      "pays": "FR/IT",
+      "million_entrees": "6,40"
+    },
+    {
+      "place": 128,
+      "titre": "Spider-Man",
+      "realisateur": "S. Raimi",
+      "annee": 2002,
+      "pays": "US",
+      "million_entrees": "6,38"
+    },
+    {
+      "place": 129,
+      "titre": "La Symphonie pastorale",
+      "realisateur": "J. Delannoy",
+      "annee": 1946,
+      "pays": "FR",
+      "million_entrees": "6,37"
+    },
+    {
+      "place": 130,
+      "titre": "Ivanhoé",
+      "realisateur": "R. Thorpe",
+      "annee": 1952,
+      "pays": "US",
+      "million_entrees": "6,36"
+    },
+    {
+      "place": 131,
+      "titre": "Le Bon, la brute et le truand",
+      "realisateur": "S. Leone",
+      "annee": 1968,
+      "pays": "IT",
+      "million_entrees": "6,35"
+    },
+    {
+      "place": 132,
+      "titre": "Les Dents de la mer",
+      "realisateur": "S. Spielberg",
+      "annee": 1976,
+      "pays": "US",
+      "million_entrees": "6,33"
+    },
+    {
+      "place": 133,
+      "titre": "Spider-Man 3",
+      "realisateur": "S. Raimi",
+      "annee": 2007,
+      "pays": "US",
+      "million_entrees": "6,32"
+    },
+    {
+      "place": 134,
+      "titre": "Quo Vadis",
+      "realisateur": "M. Le Roy",
+      "annee": 1953,
+      "pays": "US",
+      "million_entrees": "6,31"
+    },
+    {
+      "place": 135,
+      "titre": "La Gloire de mon père",
+      "realisateur": "Y. Robert",
+      "annee": 1990,
+      "pays": "FR",
+      "million_entrees": "6,30"
+    },
+    {
+      "place": 136,
+      "titre": "Le Gendarme et les extra-terrestres",
+      "realisateur": "J. Girault",
+      "annee": 1979,
+      "pays": "FR",
+      "million_entrees": "6,28"
+    },
+    {
+      "place": 137,
+      "titre": "Indiana Jones et la dernière croisade",
+      "realisateur": "S. Spielberg",
+      "annee": 1989,
+      "pays": "US",
+      "million_entrees": "6,26"
+    },
+    {
+      "place": 138,
+      "titre": "Harry Potter et l'ordre du Phénix",
+      "realisateur": "D. Yates",
+      "annee": 2007,
+      "pays": "GB",
+      "million_entrees": "6,22"
+    },
+    {
+      "place": 139,
+      "titre": "Marche à l'ombre",
+      "realisateur": "M. Blanc",
+      "annee": 1984,
+      "pays": "FR",
+      "million_entrees": "6,17"
+    },
+    {
+      "place": 140,
+      "titre": "Pas si bête",
+      "realisateur": "A. Berthomieu",
+      "annee": 1946,
+      "pays": "FR",
+      "million_entrees": "6,17"
+    },
+    {
+      "place": 141,
+      "titre": "Merlin l'enchanteur",
+      "realisateur": "W. Reitherman",
+      "annee": 1964,
+      "pays": "US",
+      "million_entrees": "6,16"
+    },
+    {
+      "place": 142,
+      "titre": "La Chartreuse de Parme",
+      "realisateur": "Christian-Jaque",
+      "annee": 1948,
+      "pays": "FR",
+      "million_entrees": "6,15"
+    },
+    {
+      "place": 143,
+      "titre": "Germinal",
+      "realisateur": "C. Berri",
+      "annee": 1993,
+      "pays": "FR/BE",
+      "million_entrees": "6,15"
+    },
+    {
+      "place": 144,
+      "titre": "Le Père tranquille",
+      "realisateur": "R. Clément",
+      "annee": 1946,
+      "pays": "FR",
+      "million_entrees": "6,14"
+    },
+    {
+      "place": 145,
+      "titre": "Harry Potter et le Prince de sang-mêlé",
+      "realisateur": "D. Yates",
+      "annee": 2009,
+      "pays": "GB",
+      "million_entrees": "6,14"
+    },
+    {
+      "place": 146,
+      "titre": "Les Feux de la rampe",
+      "realisateur": "C. Chaplin",
+      "annee": 1952,
+      "pays": "US",
+      "million_entrees": "6,14"
+    },
+    {
+      "place": 147,
+      "titre": "Oscar",
+      "realisateur": "E. Molinaro",
+      "annee": 1967,
+      "pays": "FR",
+      "million_entrees": "6,12"
+    },
+    {
+      "place": 148,
+      "titre": "Taxi 3",
+      "realisateur": "G. Krawczyk",
+      "annee": 2003,
+      "pays": "FR",
+      "million_entrees": "6,11"
+    },
+    {
+      "place": 149,
+      "titre": "Harry Potter et les reliques de la mort - 1re partie",
+      "realisateur": "D. Yates",
+      "annee": 2010,
+      "pays": "GB",
+      "million_entrees": "6,10"
+    },
+    {
+      "place": 150,
+      "titre": "Star Wars : épisode 9, l'ascension de Skywalker",
+      "realisateur": "J.J. Abrams",
+      "annee": 2019,
+      "pays": "US",
+      "million_entrees": "6,06"
+    },
+    {
+      "place": 151,
+      "titre": "Terminator 2 - le jugement dernier",
+      "realisateur": "J. Cameron",
+      "annee": 1991,
+      "pays": "US",
+      "million_entrees": "6,01"
+    },
+    {
+      "place": 152,
+      "titre": "Midnight Express",
+      "realisateur": "A. Parker",
+      "annee": 1978,
+      "pays": "GB",
+      "million_entrees": "5,97"
+    },
+    {
+      "place": 153,
+      "titre": "Les Dieux sont tombés sur la tête",
+      "realisateur": "J. Uys",
+      "annee": 1983,
+      "pays": "ZA",
+      "million_entrees": "5,95"
+    },
+    {
+      "place": 154,
+      "titre": "Mourir d'aimer",
+      "realisateur": "A. Cayatte",
+      "annee": 1971,
+      "pays": "FR/IT",
+      "million_entrees": "5,91"
+    },
+    {
+      "place": 155,
+      "titre": "Qui veut la peau de Roger Rabbit ?",
+      "realisateur": "R. Zemeckis",
+      "annee": 1988,
+      "pays": "US",
+      "million_entrees": "5,91"
+    },
+    {
+      "place": 156,
+      "titre": "Crocodile Dundee",
+      "realisateur": "P. Faiman",
+      "annee": 1987,
+      "pays": "AU",
+      "million_entrees": "5,89"
+    },
+    {
+      "place": 157,
+      "titre": "Guerre et Paix",
+      "realisateur": "K. Vidor",
+      "annee": 1956,
+      "pays": "US",
+      "million_entrees": "5,89"
+    },
+    {
+      "place": 158,
+      "titre": "Les Ripoux",
+      "realisateur": "C. Zidi",
+      "annee": 1984,
+      "pays": "FR",
+      "million_entrees": "5,88"
+    },
+    {
+      "place": 159,
+      "titre": "L'Odyssée du Docteur Wassel",
+      "realisateur": "C.B. DeMille",
+      "annee": 1946,
+      "pays": "US",
+      "million_entrees": "5,87"
+    },
+    {
+      "place": 160,
+      "titre": "Rambo 2 - la mission",
+      "realisateur": "G.P. Cosmatos",
+      "annee": 1985,
+      "pays": "US",
+      "million_entrees": "5,85"
+    },
+    {
+      "place": 161,
+      "titre": "Le Bossu",
+      "realisateur": "A. Hunebelle",
+      "annee": 1959,
+      "pays": "FR/IT",
+      "million_entrees": "5,85"
+    },
+    {
+      "place": 162,
+      "titre": "L'Aile ou la Cuisse",
+      "realisateur": "C. Zidi",
+      "annee": 1976,
+      "pays": "FR",
+      "million_entrees": "5,84"
+    },
+    {
+      "place": 163,
+      "titre": "Sissi face à son destin",
+      "realisateur": "E. Marischka",
+      "annee": 1958,
+      "pays": "AT",
+      "million_entrees": "5,79"
+    },
+    {
+      "place": 164,
+      "titre": "Les Vacances de Monsieur Hulot",
+      "realisateur": "J. Tati",
+      "annee": 1953,
+      "pays": "FR",
+      "million_entrees": "5,78"
+    },
+    {
+      "place": 165,
+      "titre": "Quatre mariages et un enterrement",
+      "realisateur": "M. Newell",
+      "annee": 1994,
+      "pays": "GB",
+      "million_entrees": "5,78"
+    },
+    {
+      "place": 166,
+      "titre": "Mulan",
+      "realisateur": "T. Bancroft, B. Cook",
+      "annee": 1998,
+      "pays": "US",
+      "million_entrees": "5,78"
+    },
+    {
+      "place": 167,
+      "titre": "Men in Black",
+      "realisateur": "B. Sonnenfeld",
+      "annee": 1997,
+      "pays": "US",
+      "million_entrees": "5,76"
+    },
+    {
+      "place": 168,
+      "titre": "Le train sifflera trois fois",
+      "realisateur": "F. Zinnemann",
+      "annee": 1952,
+      "pays": "US",
+      "million_entrees": "5,76"
+    },
+    {
+      "place": 169,
+      "titre": "Moi, moche et méchant 3",
+      "realisateur": "K. Balda, P. Coffin, E. Guillon",
+      "annee": 2017,
+      "pays": "US",
+      "million_entrees": "5,75"
+    },
+    {
+      "place": 170,
+      "titre": "Grease",
+      "realisateur": "R. Kleiser",
+      "annee": 1978,
+      "pays": "US",
+      "million_entrees": "5,74"
+    },
+    {
+      "place": 171,
+      "titre": "Les Fous du stade",
+      "realisateur": "C. Zidi",
+      "annee": 1972,
+      "pays": "FR",
+      "million_entrees": "5,74"
+    },
+    {
+      "place": 172,
+      "titre": "Les Indestructibles 2",
+      "realisateur": "B. Brad",
+      "annee": 2018,
+      "pays": "US",
+      "million_entrees": "5,74"
+    },
+    {
+      "place": 173,
+      "titre": "Le Troisième Homme",
+      "realisateur": "C. Reed",
+      "annee": 1949,
+      "pays": "GB",
+      "million_entrees": "5,74"
+    },
+    {
+      "place": 174,
+      "titre": "Opération tonnerre",
+      "realisateur": "T. Young",
+      "annee": 1965,
+      "pays": "GB",
+      "million_entrees": "5,74"
+    },
+    {
+      "place": 175,
+      "titre": "Andalousie",
+      "realisateur": "R. Vernay",
+      "annee": 1951,
+      "pays": "FR/ES",
+      "million_entrees": "5,74"
+    },
+    {
+      "place": 176,
+      "titre": "Les Anges gardiens",
+      "realisateur": "J.M. Poiré",
+      "annee": 1995,
+      "pays": "FR",
+      "million_entrees": "5,73"
+    },
+    {
+      "place": 177,
+      "titre": "Les Valseuses",
+      "realisateur": "B. Blier",
+      "annee": 1974,
+      "pays": "FR",
+      "million_entrees": "5,73"
+    },
+    {
+      "place": 178,
+      "titre": "La Bataille du rail",
+      "realisateur": "R. Clément",
+      "annee": 1946,
+      "pays": "FR",
+      "million_entrees": "5,73"
+    },
+    {
+      "place": 179,
+      "titre": "Lawrence d'Arabie",
+      "realisateur": "D. Lean",
+      "annee": 1963,
+      "pays": "GB",
+      "million_entrees": "5,72"
+    },
+    {
+      "place": 180,
+      "titre": "A nous les petites Anglaises",
+      "realisateur": "M. Lang",
+      "annee": 1976,
+      "pays": "FR",
+      "million_entrees": "5,70"
+    },
+    {
+      "place": 181,
+      "titre": "La Vérité",
+      "realisateur": "H.G. Clouzot",
+      "annee": 1960,
+      "pays": "FR/IT",
+      "million_entrees": "5,70"
+    },
+    {
+      "place": 182,
+      "titre": "Notre-Dame de Paris",
+      "realisateur": "J. Delannoy",
+      "annee": 1956,
+      "pays": "FR/IT",
+      "million_entrees": "5,70"
+    },
+    {
+      "place": 183,
+      "titre": "Indiana Jones et le temple maudit",
+      "realisateur": "S. Spielberg",
+      "annee": 1984,
+      "pays": "US",
+      "million_entrees": "5,69"
+    },
+    {
+      "place": 184,
+      "titre": "Les Tuche 3",
+      "realisateur": "O. Baroux",
+      "annee": 2018,
+      "pays": "FR",
+      "million_entrees": "5,69"
+    },
+    {
+      "place": 185,
+      "titre": "Matrix Reloaded",
+      "realisateur": "L. Wachowski, A. Wachowski",
+      "annee": 2003,
+      "pays": "US",
+      "million_entrees": "5,67"
+    },
+    {
+      "place": 186,
+      "titre": "Pirates des Caraïbes - jusqu'au bout du monde",
+      "realisateur": "G. Verbinski",
+      "annee": 2007,
+      "pays": "US",
+      "million_entrees": "5,64"
+    },
+    {
+      "place": 187,
+      "titre": "Pocahontas, une légende indienne",
+      "realisateur": "M. Gabriel, E. Goldberg",
+      "annee": 1995,
+      "pays": "US",
+      "million_entrees": "5,63"
+    },
+    {
+      "place": 188,
+      "titre": "Bons baisers de Russie",
+      "realisateur": "T. Young",
+      "annee": 1964,
+      "pays": "GB",
+      "million_entrees": "5,63"
+    },
+    {
+      "place": 189,
+      "titre": "Star Wars : épisode 2 - l'attaque des clones",
+      "realisateur": "G. Lucas",
+      "annee": 2002,
+      "pays": "US",
+      "million_entrees": "5,62"
+    },
+    {
+      "place": 190,
+      "titre": "La Ch'tite Famille",
+      "realisateur": "D. Boon",
+      "annee": 2018,
+      "pays": "FR",
+      "million_entrees": "5,62"
+    },
+    {
+      "place": 191,
+      "titre": "Le Petit Nicolas",
+      "realisateur": "L. Tirard",
+      "annee": 2009,
+      "pays": "FR/BE",
+      "million_entrees": "5,62"
+    },
+    {
+      "place": 192,
+      "titre": "Joker",
+      "realisateur": "T. Phillips",
+      "annee": 2019,
+      "pays": "US",
+      "million_entrees": "5,61"
+    },
+    {
+      "place": 193,
+      "titre": "Independence Day",
+      "realisateur": "R. Emmerich",
+      "annee": 1996,
+      "pays": "US",
+      "million_entrees": "5,61"
+    },
+    {
+      "place": 194,
+      "titre": "Quai des Orfèvres",
+      "realisateur": "H.G. Clouzot",
+      "annee": 1947,
+      "pays": "FR",
+      "million_entrees": "5,58"
+    },
+    {
+      "place": 195,
+      "titre": "La Folie des grandeurs",
+      "realisateur": "G. Oury",
+      "annee": 1971,
+      "pays": "FR/DE/ES",
+      "million_entrees": "5,57"
+    },
+    {
+      "place": 196,
+      "titre": "Le Cerveau",
+      "realisateur": "G. Oury",
+      "annee": 1969,
+      "pays": "FR/IT",
+      "million_entrees": "5,55"
+    },
+    {
+      "place": 197,
+      "titre": "Vaïana, la légende du bout du monde",
+      "realisateur": "J. Musker, R. Clements",
+      "annee": 2016,
+      "pays": "US",
+      "million_entrees": "5,55"
+    },
+    {
+      "place": 198,
+      "titre": "Le Petit Baigneur",
+      "realisateur": "R. Dhéry",
+      "annee": 1968,
+      "pays": "FR/IT",
+      "million_entrees": "5,54"
+    },
+    {
+      "place": 199,
+      "titre": "Shrek le troisième",
+      "realisateur": "C. Miller",
+      "annee": 2007,
+      "pays": "US",
+      "million_entrees": "5,54"
+    },
+    {
+      "place": 200,
+      "titre": "Love Story",
+      "realisateur": "A. Hiller",
+      "annee": 1971,
+      "pays": "US",
+      "million_entrees": "5,51"
+    }
+  ]
